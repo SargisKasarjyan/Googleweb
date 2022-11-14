@@ -1,0 +1,221 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.glx{
+    position: relative;
+    background-color: dimgray;
+    width: 1280px;
+    height: 689px;
+}
+.h11{
+    position: absolute;
+    color: white;
+    font-size: 100px;
+    top: 137px;
+    left: 499px;
+}
+
+.input1{
+    background-color: var(--search-box-bg, white);
+    border: none;
+    border-radius: var(--ntp-realbox-border-radius);
+    color: var(--search-box-text);
+    font-family: inherit;
+    font-size: inherit;
+    height: 44px;
+    outline: none;
+    padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    position: absolute;
+    width: 579px;
+    top: 300px;
+    left: 380px;
+    border-radius: 50px 50px 50px 50px ;
+} 
+.a1{
+    top: 312px;
+    left: 397px;
+    width: 20px;
+    position: absolute;
+}
+.a2{
+    top: 312px;
+    left: 920px;
+    width: 20px;
+    position: absolute;
+}
+.youtoub{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: dimgray;
+    top: 362px;
+    text-align: center;
+    left: 400px;
+}
+.youtoub:hover{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: silver;
+    opacity: 0.5;
+    top: 362px;
+    text-align: center;
+    left: 400px;
+}
+.in1{
+    width: 90px;
+    height: 60px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.gmail{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: dimgray;
+    top: 362px;
+    text-align: center;
+    left: 600px;
+}
+.gmail:hover{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: silver;
+    opacity: 0.5;
+    top: 362px;
+    text-align: center;
+    left: 600px;
+}
+.in2{
+    width: 90px;
+    height: 60px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.facebook{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: dimgray;
+    top: 362px;
+    text-align: center;
+    left: 500px;
+}
+.facebook:hover{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: silver;
+    opacity: 0.5;
+    top: 362px;
+    text-align: center;
+    left: 500px;
+}
+.in3{
+    width: 90px;
+    height: 60px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.instagram{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: dimgray;
+    top: 362px;
+    text-align: center;
+    left: 700px;
+}
+.instagram:hover{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: silver;
+    opacity: 0.5;
+    top: 362px;
+    text-align: center;
+    left: 700px;
+}
+.in4{
+    width: 90px;
+    height: 60px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.twweet{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: dimgray;
+    top: 362px;
+    text-align: center;
+    left: 800px;
+}
+.twweet:hover{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: silver;
+    opacity: 0.5;
+    top: 362px;
+    text-align: center;
+    left: 800px;
+}
+.in5{
+    width: 90px;
+    height: 60px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.div1{
+    /* color: white; */
+    top: 10px;
+    right: 200px;
+    position: absolute;
+    /* display: inline-block;  */
+    /* padding-left: 15px; */
+    /* text-decoration: none; */
+}
+.div2{
+    /* color: white; */
+    top: 10px;
+    right: 140px;
+    position: absolute;
+    /* display: inline-block;  */
+    /* padding-left: 15px; */
+    /* text-decoration: none; */
+}
+.aq21{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+}
+.aq21:hover{
+    position: absolute;
+    text-decoration: underline;
+}
